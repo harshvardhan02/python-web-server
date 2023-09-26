@@ -29,7 +29,7 @@ def pandas(name=get_page_pandas()):
 
 @app.route("/api/users", methods=['GET'])
 def user():
-    data = {'name': 'Harshvardhan', 'age': 30, 'skills': ['Python', 'JavaScript', 'React']}
+    data = {'name': 'Harshvardhan', 'age': 27, 'skills': ['Python', 'JavaScript', 'React']}
     return jsonify(data)
 
 
