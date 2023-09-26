@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+<div class="container">
+  {% block content %}
+  <ul>
+    {% for item in fruits %}
+    <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <ul>
+    {% for item in users %}
+    <li>Name: {{ item['name'] }}, Age: {{ item['age'] }}</li>
+    {% endfor %}
+  </ul>
+  {% endblock %}
+</div>

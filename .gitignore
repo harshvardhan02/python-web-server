@@ -1,0 +1,25 @@
+# Flask specific
+__pycache__/
+instance/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE/Editor specific files (e.g., PyCharm, Visual Studio Code)
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# Logs and temporary files
+*.log
+*.swp
+
+# Dependency directories
+__pycache__/
+node_modules/
