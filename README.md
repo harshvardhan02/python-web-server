@@ -18,17 +18,17 @@ cd project_folder
 ## 🧪 Step 3 — Create Virtual Environment
 Run the following command to create a virtual environment named `venv`:
 ```bash
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 ## ▶️ Step 4 — Activate Virtual Environment (Mac/Linux)
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### 🪟 Step 5 — Activate Virtual Environment (Windows)
 ```bash
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 ## 🧩 Step 6 — Install Required Python Libraries
