@@ -82,4 +82,10 @@ Run the app server with debug mode
 ```bash
   flask --app server --debug run
 ```
+
+---
+### Install Python packages from requirement.txt
+```bash
+  pip install -r requirements.txt
+```
     
