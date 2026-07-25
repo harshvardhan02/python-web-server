@@ -88,4 +88,12 @@ Run the app server with debug mode
 ```bash
   pip install -r requirements.txt
 ```
-    
+
+---
+
+#Starting with FastAPI
+
+```python
+# pip install "fastapi[standard]"
+# pip install bcrypt==4.0.1
+```
