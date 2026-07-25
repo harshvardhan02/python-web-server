@@ -96,4 +96,6 @@ Run the app server with debug mode
 ```python
 # pip install "fastapi[standard]"
 # pip install bcrypt==4.0.1
+# pip install PyJWT
+# pip install passlib
 ```
