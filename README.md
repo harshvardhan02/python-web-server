@@ -91,7 +91,7 @@ Run the app server with debug mode
 
 ---
 
-#Starting with FastAPI
+# Starting with FastAPI
 
 ```python
 # pip install "fastapi[standard]"
