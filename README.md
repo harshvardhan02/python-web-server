@@ -99,4 +99,6 @@ Run the app server with debug mode
 # pip install PyJWT
 # pip install passlib
 # pip install python-multipart
+# pip install sqlalchemy
+# pip install aiomysql
 ```
